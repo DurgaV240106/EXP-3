@@ -3,7 +3,9 @@ EXPT NO: 3				STAIR CASE WIRING
 
  
 AIM
+
  To control the status of the given lamp by using two–way switches. 
+ 
 APPARATUS REQUIRED:
 
 S. No.
@@ -53,10 +55,9 @@ Cross connection: CIRCUIT DIAGRAM:
 
 <img width="641" height="314" alt="image" src="https://github.com/user-attachments/assets/d1cf3a69-b0c2-4d38-8d42-83d1a782c06e" />
 
-
 Tabulation:2
 
-<img width="714" height="926" alt="image" src="https://github.com/user-attachments/assets/de1b5353-2edd-4f85-8604-4cd57fc2e342" />
+<img width="609" height="863" alt="image" src="https://github.com/user-attachments/assets/79aba286-0a32-45e1-b734-14446ae1e097" />
 
 <img width="640" height="211" alt="image" src="https://github.com/user-attachments/assets/3be53bfd-a42f-4a13-83ad-d5b69cf905f7" />
 
